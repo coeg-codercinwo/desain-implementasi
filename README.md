@@ -6,4 +6,4 @@ Repository ini hanya untuk pengerjaan praktikum IMPAL.
 
 SKPL and DPPL included.
 
-code soon.
+code soon
